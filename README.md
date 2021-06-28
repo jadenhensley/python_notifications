@@ -1,5 +1,6 @@
 # Windows 10 Custom Notifications demo using Python
 
+Shoutout to @akhiltak's inspirational-quotes project, from which I borrowed the Quotes.csv file. https://github.com/akhiltak/inspirational-quotes/blob/master/Quotes.csv
 # Usage
 
 (while in the working directory of the files):
@@ -11,7 +12,7 @@
 # Installation
 
 1. make sure prerequisites (win10toast library) is installed: ```pip install win10toast``` 
-2. git clone or download this repository.
+2. git clone this repository. ```git clone https://github.com/jadenhensley/python_notifications/```
 
 # What I learned
 
